@@ -16,7 +16,7 @@ It almost always isn't the model. It's that they never gave the AI any context a
 This repo is the public, free, DIY version of that fix:
 
 1. A **master system prompt template** you customize once with your business details.
-2. **25 industry-specific superprompts** (insurance verification, no-show recovery, bid follow-ups, listing descriptions, lease renewals, hourly-invoice drafting, etc.) that paste into your AI account.
+2. **50 industry-specific superprompts** (insurance verification, no-show recovery, bid follow-ups, listing descriptions, lease renewals, mortgage status updates, HVAC seasonal drips, tattoo aftercare, catering inquiries, event coordination, late-payment reminders, and 39 more) that paste into your AI account.
 3. **Examples** showing the difference between generic AI output and AI output that knows your business.
 
 If you want the productized version — a 3-minute intake that generates a custom master prompt + 18 industry-specific superprompts + a workflow audit + a 30-day deployment roadmap, all tuned to your specific business — see [CLAWVR](https://clawvr.com) ($297 one-time, no subscription). This repo is the free version of the same idea.
@@ -52,6 +52,31 @@ If you want the productized version — a 3-minute intake that generates a custo
   23. [E-commerce Order Issue Resolution](#23-e-commerce-order-issue-resolution)
   24. [Coaching / Consultant Discovery-Call Follow-Up](#24-coaching--consultant-discovery-call-follow-up)
   25. [Agency Monthly Client Report Drafter](#25-agency-monthly-client-report-drafter)
+  26. [Med-Spa Consult-to-Booking Conversion Email](#26-med-spa-consult-to-booking-conversion-email)
+  27. [Med-Spa Post-Treatment Care Email](#27-med-spa-post-treatment-care-email)
+  28. [Mortgage Broker Pre-Approval Status Update](#28-mortgage-broker-pre-approval-status-update)
+  29. [Landscaping Maintenance Renewal Reminder](#29-landscaping-maintenance-renewal-reminder)
+  30. [Pool Service Quote Walk-Through Script](#30-pool-service-quote-walk-through-script)
+  31. [Freight / Trucking Customer Status Update](#31-freight--trucking-customer-status-update)
+  32. [Painter Project Wrap-Up + Referral Ask](#32-painter-project-wrap-up--referral-ask)
+  33. [HVAC Seasonal Tune-Up Reminder Drip](#33-hvac-seasonal-tune-up-reminder-drip)
+  34. [Pediatric Dental Parent-Anxiety Pre-Appointment Email](#34-pediatric-dental-parent-anxiety-pre-appointment-email)
+  35. [Specialty Retailer Abandoned-Cart Recovery Sequence](#35-specialty-retailer-abandoned-cart-recovery-sequence)
+  36. [Tattoo Studio Aftercare Instructions Email](#36-tattoo-studio-aftercare-instructions-email)
+  37. [Wedding Vendor Inquiry Response + Discovery Questionnaire](#37-wedding-vendor-inquiry-response--discovery-questionnaire)
+  38. [Driving School Lesson Confirmation + Practice Plan](#38-driving-school-lesson-confirmation--practice-plan)
+  39. [Music School / Tutor Lesson Recap to Parent](#39-music-school--tutor-lesson-recap-to-parent)
+  40. [Property Manager Lease-Renewal Outreach](#40-property-manager-lease-renewal-outreach)
+  41. [Property Manager Tenant Repair-Request Triage](#41-property-manager-tenant-repair-request-triage)
+  42. [Massage Therapist Post-Session + Rebook Nudge](#42-massage-therapist-post-session--rebook-nudge)
+  43. [Tax Pro First-Year Client Educational Onboarding Drip](#43-tax-pro-first-year-client-educational-onboarding-drip)
+  44. [Solar Installer Site-Survey Follow-Up](#44-solar-installer-site-survey-follow-up)
+  45. [Window-Cleaning Recurring-Plan Pitch Email](#45-window-cleaning-recurring-plan-pitch-email)
+  46. [Locksmith Emergency-Service Follow-Up + Review Ask](#46-locksmith-emergency-service-follow-up--review-ask)
+  47. [Catering Inquiry Response + Menu Curation](#47-catering-inquiry-response--menu-curation)
+  48. [Event Planner Vendor Coordination Email Pack](#48-event-planner-vendor-coordination-email-pack)
+  49. [Bookkeeping Client Late-Payment Reminder (Diplomatic)](#49-bookkeeping-client-late-payment-reminder-diplomatic)
+  50. [SMB Owner New-Hire Welcome + Day-1 Plan](#50-smb-owner-new-hire-welcome--day-1-plan)
 - [How to use these](#how-to-use-these)
 - [Before vs. After Examples](#before-vs-after-examples)
 - [Contributing](#contributing)
@@ -97,7 +122,7 @@ Operate as a senior, trusted employee who has memorized the profile above. For e
 Begin every response by silently checking the profile above. Never paste the profile back at the owner.
 ```
 
-That's it. The 25 superprompts below all assume the master is loaded.
+That's it. The 50 superprompts below all assume the master is loaded.
 
 ---
 
@@ -606,6 +631,518 @@ Output a client-facing report with:
 5. Next month's top 3 focus areas.
 
 Match the agency voice from the master profile. Confident but not boastful. If the month was bad, name it honestly and explain what changes for next month.
+```
+
+### 26. Med-Spa Consult-to-Booking Conversion Email
+**For:** Med-spas, aesthetic clinics, dermatology offices selling cosmetic treatments.
+
+```
+A potential client just finished a free consult. Draft the post-consult conversion email.
+
+- Client name: ___
+- Treatment(s) they consulted for: ___
+- Quoted price + suggested package: ___
+- Their stated hesitation in the room (price / pain / downtime / spouse approval): ___
+- Time-sensitive offer attached (Y/N + details): ___
+
+Output (180-250 words):
+1. Warm thank-you + one specific moment from the consult.
+2. Restate the treatment recommendation in plain language (not clinical jargon).
+3. Address the specific hesitation they voiced — with empathy + facts, not a sales-pressure response.
+4. Clear next step: booking link + "happy to answer one more question by reply" CTA.
+
+NO: hard-sell urgency phrases, before/after photo dumps in email, fear-based "your skin is aging" language. Match the practice tone from the master profile.
+```
+
+### 27. Med-Spa Post-Treatment Care Email
+**For:** Med-spas, dermatology, plastic surgery, aesthetic clinics.
+
+```
+A client just left after a treatment. Draft the post-treatment care email.
+
+- Client name + treatment: ___
+- Expected downtime: ___
+- 3-5 specific aftercare instructions for this treatment: ___
+- 24-hour red-flag symptoms that mean they should call us: ___
+- Optimal next-treatment timing: ___
+
+Output:
+1. Plain-English care summary (under 200 words) — 5th-grade reading level.
+2. "Call us if you see..." red-flag list.
+3. Soft mention of next-treatment timing as a calendar item, NOT a sales pitch.
+
+Reassuring + professional tone from master profile. End with clinic phone + a "we're glad you came in" line.
+```
+
+### 28. Mortgage Broker Pre-Approval Status Update
+**For:** Mortgage brokers, loan officers, residential lenders.
+
+```
+A client is mid-application. Draft a status update email.
+
+- Client name: ___
+- Loan stage (pre-app / in underwriting / cleared-to-close / conditional approval): ___
+- Documents still outstanding from client: ___
+- Documents we're waiting on from third parties (employer, appraiser, etc.): ___
+- Estimated next milestone date: ___
+- Any concerns from underwriting worth flagging now: ___
+
+Output (180-240 words):
+1. Plain-English summary of where we are.
+2. SHORT checklist of what we need from them this week.
+3. What we're handling on our end (so they don't feel alone in the process).
+4. Realistic timing for next milestone.
+
+NO: jargon ("DU findings", "LE/CD timing") unless they're a repeat client who uses it first. Match the broker voice from the master profile.
+```
+
+### 29. Landscaping Maintenance Renewal Reminder
+**For:** Landscaping companies, lawn care, tree services, irrigation.
+
+```
+A client's annual maintenance contract is coming due in 30 days. Draft the renewal outreach.
+
+- Client name: ___
+- Property type / scope: ___
+- Last year's annual price: ___
+- This year's renewal price (+ reasons if increased): ___
+- Two specific wins from last year's service (the tree we saved, the lawn comeback, etc.): ___
+- New service we'd recommend adding this year: ___
+
+Output:
+1. Warm 4-line opener referencing one specific win from last year.
+2. Renewal pricing + honest explanation if it's gone up.
+3. One specific upsell suggestion tied to their property — not a generic add-on list.
+4. Clear next step (sign + return / call to discuss).
+
+Conversational + neighborly tone. NO corporate language. Match the voice from the master profile.
+```
+
+### 30. Pool Service Quote Walk-Through Script
+**For:** Pool service companies, pool builders, pool repair shops.
+
+```
+A customer just got a quote. Draft the phone call-back script.
+
+- Customer name: ___
+- Quote total: ___
+- Scope (weekly service / repair / build / chemical-only): ___
+- The pain point they specifically mentioned at the inspection: ___
+- Our recommended package + price: ___
+- Cheaper alternative we can offer if they push back on price: ___
+
+90-second phone script. Speaker labels. Cover: warm reset of their situation, our recommended package + why, the price, ONE alternative if they push back, clear close.
+
+No upsell pressure. Plain English. Match the voice from the master profile.
+```
+
+### 31. Freight / Trucking Customer Status Update
+**For:** Trucking companies, freight brokers, logistics SMBs.
+
+```
+A shipment is en route or delayed. Draft the customer status update.
+
+- Customer / shipper name: ___
+- Load number / PO ref: ___
+- Origin → destination: ___
+- Current status (in transit / on time / delayed / damaged / delivered): ___
+- ETA: ___
+- Any complication (driver issue, weather, weight check, port wait): ___
+
+Output (under 150 words):
+1. Status in one clear sentence at the top.
+2. Plain-English explanation if there's a delay or issue.
+3. Next update timing (when they'll hear from us again).
+4. Direct phone number for emergencies.
+
+NO: jargon ("HOS", "out-of-service"), apologies for things outside our control phrased as if they ARE our fault. Be matter-of-fact. Match the voice from the master profile.
+```
+
+### 32. Painter Project Wrap-Up + Referral Ask
+**For:** Painters, drywall repair, flooring installers, finish contractors.
+
+```
+A project just wrapped. Draft the project completion email + referral ask.
+
+- Customer name: ___
+- Project scope: ___
+- Final invoice + paid status: ___
+- One specific moment from the project (the challenge that turned out well, etc.): ___
+- Warranty terms: ___
+
+Output:
+1. Wrap-up email (140-200 words): warm thank-you, references the specific moment, restates warranty plainly.
+2. Soft referral ask (60-100 words): ONE specific kind of referral I'd love (neighbor doing similar work, a contractor we'd love to be on the recommended list of), with a "happy to send a one-pager if you have someone in mind" CTA.
+
+NO: "5-star review or no-tip" pressure phrases. Match the painter voice from the master profile.
+```
+
+### 33. HVAC Seasonal Tune-Up Reminder Drip
+**For:** HVAC contractors, plumbing-HVAC combos, indoor air specialists.
+
+```
+Spring/fall is approaching. Draft the 3-touch tune-up reminder drip for existing customers.
+
+- Season: ___
+- System type for this customer (central AC / heat pump / boiler / mini-split): ___
+- Last tune-up date: ___
+- Recommended frequency: ___
+- Tune-up package price: ___
+- One specific issue from last visit worth following up on: ___
+
+Touch 1 (4 weeks out): friendly heads-up, ask if they want to lock in a slot before peak season.
+Touch 2 (2 weeks out): specific time slots available, mention what we'll check + the prior-visit follow-up item.
+Touch 3 (3 days out, only for non-responders): final nudge, alternate week offer.
+
+60-100 words per touch. Tone from the master profile. NO scare tactics about "your system failing."
+```
+
+### 34. Pediatric Dental Parent-Anxiety Pre-Appointment Email
+**For:** Pediatric dental practices, family practices with kids.
+
+```
+A child has their first cleaning visit scheduled. Draft the pre-visit email to the parent.
+
+- Child's first name + age: ___
+- Procedure scheduled: ___
+- First-time patient (Y/N): ___
+- Parent's stated worry (if any from intake form): ___
+- What we do at this office to make kids comfortable (specific to our practice): ___
+
+Output (180-220 words):
+1. Warm parent-to-parent opener that uses the child's name.
+2. Plain walkthrough of what'll happen in the appointment (5 minutes by 5 minutes).
+3. Address the parent's worry specifically + what we do to mitigate.
+4. ONE simple thing the parent can do at home tonight to make tomorrow easier.
+5. Front desk phone number for last-minute questions.
+
+NO: scary-sounding clinical terms. Use kid-friendly language. Match the practice voice from the master profile.
+```
+
+### 35. Specialty Retailer Abandoned-Cart Recovery Sequence
+**For:** Shopify / WooCommerce / Etsy SMB retailers selling niche or specialty goods.
+
+```
+A customer abandoned their cart. Draft a 3-touch recovery sequence.
+
+- Customer name (or guest "Hi there"): ___
+- Cart value: ___
+- Specific items in cart: ___
+- Customer history (first-time / returning / repeat lapse): ___
+- Brand voice (warm / quirky / minimalist / luxurious): ___
+
+Touch 1 (1 hour later): no urgency, just "hey, want me to hold this?" tone.
+Touch 2 (24 hours later): one helpful detail about ONE of the items in the cart (a sizing note, a use-case, a customer review snippet).
+Touch 3 (72 hours later): soft expiration nudge with a small first-time discount IF first-time customer; for returning, just a friendly "still thinking about it?" note.
+
+NO: countdown timers, "your cart is about to expire!!!" scare phrases, blanket discount codes that train customers to abandon. Match the brand voice from the master profile.
+```
+
+### 36. Tattoo Studio Aftercare Instructions Email
+**For:** Tattoo studios, piercing studios, permanent-makeup studios.
+
+```
+A client just left after a session. Draft the aftercare instructions email.
+
+- Client name + artist's name: ___
+- Placement (area of body): ___
+- Size + estimated healing time: ___
+- Any special instructions for this particular piece (color, shading, placement): ___
+- Follow-up appointment if needed (touch-up, second session): ___
+
+Output:
+1. Plain-language aftercare instructions (under 250 words, 5th-grade reading level): cleaning, moisturizing, avoid sun/swimming, what's normal vs. not.
+2. Red-flag list: when to call us, when to see a doctor.
+3. ONE photo prompt: encourage them to send us a healed photo at 4 weeks (great content for our portfolio + checks healing).
+
+Tone: friendly + responsible. NO weird disclaimers that feel like legal CYA. Match the studio voice from the master profile.
+```
+
+### 37. Wedding Vendor Inquiry Response + Discovery Questionnaire
+**For:** Wedding photographers, planners, florists, caterers, DJs, venues.
+
+```
+A couple just inquired. Draft the response + discovery questionnaire.
+
+- Bride/groom names: ___
+- Wedding date (or estimated): ___
+- Venue (or "not yet"): ___
+- Estimated guest count: ___
+- Their stated #1 priority for our service: ___
+- Our typical package price range: ___
+
+Output:
+1. Warm inquiry response (120-180 words) by name, addresses the wedding date and priority, sets expectation on the next step.
+2. Embedded 6-question questionnaire (concrete, not "tell us about your wedding vision"): budget range, must-have list, biggest concern, decision timeline, who else is involved in the decision, preferred next-step (call / in-person / proposal).
+
+NO: "we'd love to capture your special day" platitudes. Specific + warm. Match the vendor voice from the master profile.
+```
+
+### 38. Driving School Lesson Confirmation + Practice Plan
+**For:** Driving schools, traffic schools, fleet driver training.
+
+```
+A new student just booked their first lesson. Draft the lesson confirmation email.
+
+- Student first name + age: ___
+- Lesson date + time + meeting location: ___
+- Instructor first name: ___
+- What we'll cover in this first lesson: ___
+- Three practice habits the student can build BEFORE the lesson (e.g., become familiar with mirrors and seat adjustment in a parked car, watch one defensive-driving YouTube video, etc.): ___
+
+Output (under 200 words):
+1. Friendly confirmation with all logistics.
+2. Three concrete pre-lesson practice habits.
+3. Instructor's first name + a one-line "looking forward to it" note.
+
+NO: legalese, anxiety-inducing reminders about state requirements. Encouraging tone. Match the school voice from the master profile.
+```
+
+### 39. Music School / Tutor Lesson Recap to Parent
+**For:** Music schools, private music tutors, dance studios, academic tutors.
+
+```
+A student's lesson just wrapped. Draft a 5-line recap to the parent.
+
+- Student name + age: ___
+- Today's lesson focus (specific song, concept, drill): ___
+- One concrete win from this lesson: ___
+- One area we're working on (not "weakness" — phrase as next-step): ___
+- Practice assignment for the week: ___
+- Next lesson date: ___
+
+Output: 5-line maximum. Bullet-friendly. End with practice assignment phrased as something the parent can support.
+
+Warm + specific. NO: vague "great lesson today!" — name the actual win. Match the studio voice from the master profile.
+```
+
+### 40. Property Manager Lease-Renewal Outreach
+**For:** Property managers, multi-unit landlords, vacation-rental managers with annual tenants.
+
+```
+A tenant's lease ends in 60 days. Draft the renewal outreach.
+
+- Tenant name(s): ___
+- Unit address: ___
+- Current rent: ___
+- Renewal rent (if changing): ___
+- Length of tenancy so far: ___
+- Any maintenance items pending or recently completed: ___
+
+Output (180-220 words):
+1. Warm 3-line opener that thanks them for their tenancy.
+2. Clear renewal terms: new rent (or same), proposed lease length, any policy changes.
+3. Honest explanation if rent is changing.
+4. Clear "let us know by [date]" call to action.
+5. Maintenance follow-up if relevant.
+
+NO: passive-aggressive "we trust you'll renew" phrasing. NO: market-rate justification monologues. Plain + respectful. Match the property's voice from the master profile.
+```
+
+### 41. Property Manager Tenant Repair-Request Triage
+**For:** Property managers, multi-unit landlords.
+
+```
+A tenant just submitted a repair request. Draft the triage acknowledgment + the dispatch note to the contractor.
+
+- Tenant name + unit: ___
+- Repair issue (their words): ___
+- Urgency tier (emergency / urgent / standard / cosmetic): ___
+- Vendor we're assigning: ___
+- Estimated response time: ___
+
+Output two artifacts:
+1. EXTERNAL (to tenant): under 100 words. Acknowledge by issue, assign urgency tier, set timing expectation, give them a clear next-update timing.
+2. INTERNAL (to contractor): under 80 words. Property address, unit, issue summary, tenant's preferred contact window, lockbox / access info.
+
+NO: "we'll do our best" platitudes in the tenant reply. Be specific. Match the property's voice from the master profile.
+```
+
+### 42. Massage Therapist Post-Session + Rebook Nudge
+**For:** Massage therapists, bodyworkers, chiropractors with massage component.
+
+```
+A client just left a session. Draft the post-session follow-up.
+
+- Client name: ___
+- Session length + focus area (full body / focused on neck / sports recovery / prenatal, etc.): ___
+- One thing the client mentioned about their pain or stress: ___
+- Recommended next-session timing for their issue: ___
+- Aftercare suggestion (water, stretch, heat, ice): ___
+
+Output (under 150 words):
+1. Warm 2-line opener that references the specific thing they mentioned.
+2. One simple aftercare suggestion.
+3. Recommended next-session timing as a calendar note, NOT a sales push.
+4. Direct link or instruction for booking next session.
+
+NO: pushy "you should book NOW" language. Match the practice tone from the master profile.
+```
+
+### 43. Tax Pro First-Year Client Educational Onboarding Drip
+**For:** Tax professionals, CPAs, EAs onboarding new individual clients.
+
+```
+A first-year individual tax client just signed. Draft a 4-email educational onboarding drip leading up to filing.
+
+- Client name: ___
+- Filing complexity tier (W-2 only / W-2 + investments / self-employed / multi-state): ___
+- Their stated worry from intake (audit / refund timing / not knowing what's deductible / past-year amendments): ___
+- Estimated final-document delivery date from them: ___
+
+Touch 1 (right after signing): warm welcome + ONE thing they can do this month (start a shared folder, name it, share with you).
+Touch 2 (4 weeks before deadline): document checklist tailored to their complexity tier.
+Touch 3 (2 weeks before deadline): friendly nudge for outstanding items + reassurance about their stated worry.
+Touch 4 (filed): "we filed yours" confirmation + ONE planning tip for next year tied to their tier.
+
+NO: jargon. Plain English. Each under 180 words. Match the practice voice from the master profile.
+```
+
+### 44. Solar Installer Site-Survey Follow-Up
+**For:** Solar installers, energy auditors, home battery installers.
+
+```
+A site survey just wrapped. Draft the follow-up email.
+
+- Homeowner name(s): ___
+- Property type + roof orientation findings: ___
+- System size recommendation + estimated price range: ___
+- Estimated annual savings: ___
+- Two project-specific notes from the survey (tree shading, panel placement options, electrical panel upgrade need): ___
+- Their stated decision timeline: ___
+
+Output (220-280 words):
+1. Warm 3-line opener that references one thing from the survey.
+2. Plain-English system recommendation + price range.
+3. Honest mention of any complications (electrical panel upgrade, tree work, HOA approval).
+4. Estimated savings phrased as both annual + 10-year (not lifetime — too speculative).
+5. Clear next step: detailed proposal arrives by [date], or schedule a follow-up call.
+
+NO: incentive-pressure language ("federal tax credit expires!!!"). State facts. Match the installer voice from the master profile.
+```
+
+### 45. Window-Cleaning Recurring-Plan Pitch Email
+**For:** Window cleaning, gutter cleaning, pressure washing, exterior maintenance SMBs.
+
+```
+A one-time customer just paid. Draft the recurring-plan pitch email.
+
+- Customer name + property: ___
+- One-time service price: ___
+- Recurring plan options (quarterly / bi-annual / annual): ___
+- Recurring plan price (with discount vs. one-time × frequency): ___
+- One thing we noticed during the visit that recurring service would maintain: ___
+
+Output (140-180 words):
+1. Thank-you opener + one specific moment from the visit.
+2. Honest math: one-time price × frequency vs. recurring plan price, no spreadsheet, just clear numbers.
+3. The maintenance reason: one specific thing recurring service prevents (water spots etching, gutter overflow, paint damage from grime).
+4. Clear opt-in CTA + a "no pressure if not, glad to do one-offs" line.
+
+NO: "limited time only" pressure. Friendly + practical. Match the voice from the master profile.
+```
+
+### 46. Locksmith Emergency-Service Follow-Up + Review Ask
+**For:** Locksmiths, emergency-call SMBs, mobile service businesses.
+
+```
+A locked-out customer was just helped. Draft the follow-up email.
+
+- Customer name: ___
+- Service rendered (rekey / unlock / new lock install): ___
+- Total charge: ___
+- Time we arrived from their first call: ___
+- Vehicle / property type: ___
+
+Output (under 150 words):
+1. Friendly check-in: hope you're settled.
+2. Brief recap of what we did + any maintenance suggestion (e.g., "your front lock's pins were worn, you might want a rekey in 12-18 months").
+3. ONE clear review ask (specific platform link).
+4. Save-this-number note in case of future emergency.
+
+NO: anxiety reminders ("could happen again!"). Helpful + grateful. Match the voice from the master profile.
+```
+
+### 47. Catering Inquiry Response + Menu Curation
+**For:** Catering companies, private chefs, food-truck SMBs doing events.
+
+```
+A catering inquiry just came in. Draft the response + curated menu suggestion.
+
+- Host name: ___
+- Event type (wedding / corporate / private dinner / holiday party): ___
+- Date + estimated guest count: ___
+- Budget range (if stated): ___
+- Dietary considerations mentioned: ___
+- One concrete thing they mentioned about the vibe or feel: ___
+
+Output (220-280 words):
+1. Warm inquiry response (60-80 words) that references the vibe and date.
+2. ONE curated menu suggestion (3-5 items) tailored to event type + dietary considerations.
+3. Honest price range estimate for that menu at their guest count.
+4. Clear next step: a 15-minute call to finalize or a written proposal by [date].
+
+NO: full menu PDF dumps. ONE curated suggestion. Match the kitchen's voice from the master profile.
+```
+
+### 48. Event Planner Vendor Coordination Email Pack
+**For:** Event planners, wedding planners, corporate event coordinators.
+
+```
+An event is 4 weeks out. Draft the vendor coordination email pack.
+
+- Event name + date: ___
+- Venue name + load-in time: ___
+- Vendor list (caterer, florist, DJ, photographer, etc.): ___
+- Day-of timeline (3-5 key moments): ___
+- Client name (their first name only — for vendor-to-planner consistency): ___
+
+Output: 1 templated email per vendor type listed (4-5 emails total).
+
+Each email (under 120 words): vendor-specific call-out (load-in time, setup needs, day-of contact at planner side), the 1-2 day-of timeline moments they need to hit, the planner phone number for day-of issues.
+
+Tone: professional + warm. NO: jargon, NO: anxiety energy. Match the planning practice voice from the master profile.
+```
+
+### 49. Bookkeeping Client Late-Payment Reminder (Diplomatic)
+**For:** Bookkeepers, accountants, fractional CFOs, agencies sending invoices.
+
+```
+A client invoice is 14 days past due. Draft the diplomatic late-payment reminder.
+
+- Client name: ___
+- Invoice number + amount: ___
+- Days past due: ___
+- Client tenure with us: ___
+- Last communication date: ___
+- Any reason they mentioned previously for the delay: ___
+
+Output a 2-touch sequence:
+- Touch 1 (day 14): warm "just checking in" tone, NOT accusatory. Restates invoice, asks if they need a payment plan or have a question about it, attaches the invoice again.
+- Touch 2 (day 28, if no response): firmer but still respectful. States the next step (pause on new work, late fee, etc.) per our terms, gives a 7-day grace window.
+
+NO: shame language. NO: ALL-CAPS. NO: lawyer-threatening tone. Match the practice voice from the master profile.
+```
+
+### 50. SMB Owner New-Hire Welcome + Day-1 Plan
+**For:** Any SMB owner hiring their 2nd, 3rd, 4th, etc. employee.
+
+```
+A new hire starts Monday. Draft the welcome email + their Day-1 plan.
+
+- New hire first name: ___
+- Role: ___
+- Hours / schedule: ___
+- Who they'll work most closely with: ___
+- Three things we want them to KNOW about how we operate (specific to our culture): ___
+- Three things they'll DO on Day 1: ___
+- Day-1 lunch plan: ___
+
+Output:
+1. Welcome email (180-240 words) sent Friday before start: warm, sets expectation for Day 1, includes parking/dress code/where to find you, what to bring.
+2. Day-1 plan (numbered list, sent the morning of): 9 AM coffee + tour, 10 AM the three KNOWs in plain English, 11 AM the three DOs, 12 lunch, 1 PM training overview, 2-4 PM shadow time, 4 PM end-of-day check-in.
+
+NO: corporate HR-speak. Friendly + clear. Match the owner voice from the master profile.
 ```
 
 ---
