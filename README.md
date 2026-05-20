@@ -8,8 +8,25 @@
 
 [![Get CLAWVR](https://img.shields.io/badge/Get%20CLAWVR-%24297%20one--time-0D948A?style=for-the-badge&logo=anthropic&logoColor=white)](https://clawvr.com)
 [![License: MIT](https://img.shields.io/badge/Methodology-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Agent Skill](https://img.shields.io/badge/Claude%20Agent%20Skill-Install%20free-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/Steffd415/clawvr-agent-skill)
 
 </div>
+
+---
+
+## 🆕 NEW: CLAWVR Agent Skill — install in Claude Code or Claude Cowork
+
+We just shipped an open-source **Claude Agent Skill** that turns any Claude or ChatGPT into a 6-month-veteran AI assistant for your specific small business — across 13+ verticals (dental, salon, restaurant, contractor, real estate, vet, photographer, fitness, insurance, CPA, law, HVAC, general SMB).
+
+**It's a free, MIT-licensed companion to this repo.** Built for the [Claude for Small Business](https://claude.com) ecosystem and the open [Agent Skills](https://platform.claude.com) standard.
+
+→ **[Install the CLAWVR Agent Skill →](https://github.com/Steffd415/clawvr-agent-skill)**
+
+The skill:
+- Runs a 6-question intake about your business
+- Generates a custom master prompt + 6 workflow superprompts + a 30-day deployment roadmap
+- Maps each vertical to a deeper Gist library (links inside the repo)
+- Works in Claude Code, Claude Cowork, the Claude Agent SDK, or as a paste-in ChatGPT system prompt
 
 ---
 
