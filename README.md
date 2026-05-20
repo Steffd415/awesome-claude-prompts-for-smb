@@ -9,24 +9,46 @@
 [![Get CLAWVR](https://img.shields.io/badge/Get%20CLAWVR-%24297%20one--time-0D948A?style=for-the-badge&logo=anthropic&logoColor=white)](https://clawvr.com)
 [![License: MIT](https://img.shields.io/badge/Methodology-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Agent Skill](https://img.shields.io/badge/Claude%20Agent%20Skill-Install%20free-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/Steffd415/clawvr-agent-skill)
+[![MCP Server](https://img.shields.io/badge/Claude%20MCP%20Server-Install%20free-7E57C2?style=for-the-badge)](https://github.com/Steffd415/clawvr-mcp-server)
+[![Free AI Audit](https://img.shields.io/badge/Free%20AI%20Audit-90%20sec%20report-FF6B35?style=for-the-badge)](https://clawvr.com/free-audit)
 
 </div>
 
 ---
 
-## 🆕 NEW: CLAWVR Agent Skill — install in Claude Code or Claude Cowork
+## 🚀 The complete CLAWVR open-source stack — all free, all MIT
 
-We just shipped an open-source **Claude Agent Skill** that turns any Claude or ChatGPT into a 6-month-veteran AI assistant for your specific small business — across 13+ verticals (dental, salon, restaurant, contractor, real estate, vet, photographer, fitness, insurance, CPA, law, HVAC, general SMB).
+We open-source everything except the deeply-customized $297 deliverable. The free corpus alone covers 70% of what most SMB owners need. Here's the full stack as of 2026-05-20:
 
-**It's a free, MIT-licensed companion to this repo.** Built for the [Claude for Small Business](https://claude.com) ecosystem and the open [Agent Skills](https://platform.claude.com) standard.
+| Asset | What it gives you | Link |
+|---|---|---|
+| **🤖 CLAWVR MCP Server** | Install in Claude Desktop → Claude gains 4 tools across 13+ SMB verticals | [github.com/Steffd415/clawvr-mcp-server](https://github.com/Steffd415/clawvr-mcp-server) |
+| **🛠 CLAWVR Agent Skill** | Drop into `.claude/skills/` → auto-activates on SMB-AI prompts | [github.com/Steffd415/clawvr-agent-skill](https://github.com/Steffd415/clawvr-agent-skill) |
+| **📚 25 Vertical Playbooks** | Master prompts + 6 workflow superprompts per industry (this repo + Gists) | [gist.github.com/Steffd415](https://gist.github.com/Steffd415) |
+| **🎯 6 Custom GPTs** | Pre-built ChatGPT assistants for Real Estate / CPAs / Lawyers / Dental / HVAC / generic SMB | [chat.openai.com/store](https://chatgpt.com/g/g-6a0c95e1f47081918770136430cfd3bb) |
+| **📋 Free AI Audit Tool** | 90-sec form → custom 1-page strategy report for your business | [clawvr.com/free-audit](https://clawvr.com/free-audit) |
+| **🌐 City × Vertical Landing Pages** | 3,200 unique pages indexing on Google for "AI for [vertical] in [city]" | [clawvr.com/ai-for/dentists/phoenix-az](https://clawvr.com/ai-for/dentists/phoenix-az) (example) |
 
-→ **[Install the CLAWVR Agent Skill →](https://github.com/Steffd415/clawvr-agent-skill)**
+**Total free corpus serving SMB owners forever.** The paid $297 version at [clawvr.com](https://clawvr.com) is the deeper-tuned, pre-customized version for owners who want everything done for them in 3 minutes of intake.
 
-The skill:
-- Runs a 6-question intake about your business
-- Generates a custom master prompt + 6 workflow superprompts + a 30-day deployment roadmap
-- Maps each vertical to a deeper Gist library (links inside the repo)
-- Works in Claude Code, Claude Cowork, the Claude Agent SDK, or as a paste-in ChatGPT system prompt
+---
+
+## 🆕 The MCP Server is the install-and-go option
+
+If you're using Claude Desktop, install the [CLAWVR MCP Server](https://github.com/Steffd415/clawvr-mcp-server). Add this to your Claude Desktop config:
+
+```json
+{
+  "mcpServers": {
+    "clawvr": {
+      "command": "npx",
+      "args": ["-y", "clawvr-mcp-server"]
+    }
+  }
+}
+```
+
+Restart Claude Desktop. Claude can now answer "how do I use AI in my [industry]" with vertical-specific output — not generic ChatGPT advice. MIT licensed, no telemetry.
 
 ---
 
