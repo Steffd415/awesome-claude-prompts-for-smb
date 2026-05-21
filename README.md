@@ -27,7 +27,8 @@ We open-source everything except the deeply-customized $297 deliverable. The fre
 | **📚 25 Vertical Playbooks** | Master prompts + 6 workflow superprompts per industry (this repo + Gists) | [gist.github.com/Steffd415](https://gist.github.com/Steffd415) |
 | **🎯 6 Custom GPTs** | Pre-built ChatGPT assistants for Real Estate / CPAs / Lawyers / Dental / HVAC / generic SMB | [chat.openai.com/store](https://chatgpt.com/g/g-6a0c95e1f47081918770136430cfd3bb) |
 | **📋 Free AI Audit Tool** | 90-sec form → custom 1-page strategy report for your business | [clawvr.com/free-audit](https://clawvr.com/free-audit) |
-| **🌐 City × Vertical Landing Pages** | 3,200 unique pages indexing on Google for "AI for [vertical] in [city]" | [clawvr.com/ai-for/dentists/phoenix-az](https://clawvr.com/ai-for/dentists/phoenix-az) (example) |
+| **📖 The CLAWVR Atlas** | 32 deep canonical reference guides — one per SMB vertical (use cases, ROI, 30-day rollout, FAQ) | [clawvr.com/atlas](https://clawvr.com/atlas) |
+| **🌐 City × Vertical Landing Pages** | 3,584 unique pages indexing on Google for "AI for [vertical] in [city]" | [clawvr.com/ai-for/dentists/phoenix-az](https://clawvr.com/ai-for/dentists/phoenix-az) (example) |
 
 **Total free corpus serving SMB owners forever.** The paid $297 version at [clawvr.com](https://clawvr.com) is the deeper-tuned, pre-customized version for owners who want everything done for them in 3 minutes of intake.
 
