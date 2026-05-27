@@ -4,9 +4,9 @@
 
 ### Your business has a voice. ChatGPT doesn't know what it is yet.
 
-**[clawvr.com](https://clawvr.com)** — 3-minute intake → custom master Claude system prompt + 18 industry-specific superprompts pre-loaded with your industry, software, team, customer, and tone. $297 one-time. No subscription.
+**[clawvr.com](https://clawvr.com)** — 3-minute intake → custom master Claude system prompt + 18 industry-specific superprompts pre-loaded with your industry, software, team, customer, and tone. $49 one-time. No subscription.
 
-[![Get CLAWVR](https://img.shields.io/badge/Get%20CLAWVR-%24297%20one--time-0D948A?style=for-the-badge&logo=anthropic&logoColor=white)](https://clawvr.com)
+[![Get CLAWVR](https://img.shields.io/badge/Get%20CLAWVR-%2449%20one--time-0D948A?style=for-the-badge&logo=anthropic&logoColor=white)](https://clawvr.com)
 [![License: MIT](https://img.shields.io/badge/Methodology-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Agent Skill](https://img.shields.io/badge/Claude%20Agent%20Skill-Install%20free-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/Steffd415/clawvr-agent-skill)
 [![MCP Server](https://img.shields.io/badge/Claude%20MCP%20Server-Install%20free-7E57C2?style=for-the-badge)](https://github.com/Steffd415/clawvr-mcp-server)
@@ -18,7 +18,7 @@
 
 ## 🚀 The complete CLAWVR open-source stack — all free, all MIT
 
-We open-source everything except the deeply-customized $297 deliverable. The free corpus alone covers 70% of what most SMB owners need. Here's the full stack as of 2026-05-20:
+We open-source everything except the deeply-customized $49 deliverable. The free corpus alone covers 70% of what most SMB owners need. Here's the full stack as of 2026-05-20:
 
 | Asset | What it gives you | Link |
 |---|---|---|
@@ -30,7 +30,7 @@ We open-source everything except the deeply-customized $297 deliverable. The fre
 | **📖 The CLAWVR Atlas** | 32 deep canonical reference guides — one per SMB vertical (use cases, ROI, 30-day rollout, FAQ) | [clawvr.com/atlas](https://clawvr.com/atlas) |
 | **🌐 City × Vertical Landing Pages** | 3,584 unique pages indexing on Google for "AI for [vertical] in [city]" | [clawvr.com/ai-for/dentists/phoenix-az](https://clawvr.com/ai-for/dentists/phoenix-az) (example) |
 
-**Total free corpus serving SMB owners forever.** The paid $297 version at [clawvr.com](https://clawvr.com) is the deeper-tuned, pre-customized version for owners who want everything done for them in 3 minutes of intake.
+**Total free corpus serving SMB owners forever.** The paid $49 version at [clawvr.com](https://clawvr.com) is the deeper-tuned, pre-customized version for owners who want everything done for them in 3 minutes of intake.
 
 ---
 
@@ -75,7 +75,7 @@ When the AI doesn't know your industry sub-vertical, your city, your team size, 
 
 You paste the master prompt into your own Claude / ChatGPT / Gemini account. We don't run AI on our servers. We don't see your customer data. No subscription. No login. No another-thing-to-manage.
 
-**$297 one-time. Comparable consulting engagements: $5,000-$15,000.**
+**$49 one-time. Comparable consulting engagements: $5,000-$15,000.**
 
 → **[Get yours at clawvr.com](https://clawvr.com)** (3-minute intake, PDF delivered in 5-10 minutes)
 
@@ -127,7 +127,7 @@ Begin every response by silently checking the profile above. Never paste the pro
 4. **You get the 30-day deployment roadmap** so the prompts actually get used, not bookmarked-then-forgotten
 5. **The PDF deliverable** means you can hand it to your front desk / ops manager and they can deploy it without you walking them through
 
-**$297 vs. an hour of your time × $250/hour × the 90 minutes you've been not-doing-it for 6 months = $2,250 in opportunity cost. CLAWVR pays for itself the day you actually use it.**
+**$49 vs. an hour of your time × $250/hour × the 90 minutes you've been not-doing-it for 6 months = $2,250 in opportunity cost. CLAWVR pays for itself the day you actually use it.**
 
 → **[Get yours at clawvr.com](https://clawvr.com)**
 
@@ -145,7 +145,7 @@ The full version arrives in your CLAWVR PDF pre-populated with your practice nam
 
 You get 18 of these. Customized to your business. Ready to paste.
 
-→ **[Get all 18 at clawvr.com](https://clawvr.com)** — $297 one-time, no subscription.
+→ **[Get all 18 at clawvr.com](https://clawvr.com)** — $49 one-time, no subscription.
 
 ---
 
@@ -183,7 +183,7 @@ I'm Steffan, half of a 2-person team building [CLAWVR](https://clawvr.com). I ru
 
 So we productized the fix. CLAWVR is what we ship.
 
-The free master prompt pattern above is the methodology, in its bare unfilled form. If you want the productized version with 18 industry-specific superprompts customized to your business, a workflow audit, and a 30-day deployment roadmap — that's clawvr.com, $297 one-time.
+The free master prompt pattern above is the methodology, in its bare unfilled form. If you want the productized version with 18 industry-specific superprompts customized to your business, a workflow audit, and a 30-day deployment roadmap — that's clawvr.com, $49 one-time.
 
 → **[Get yours at clawvr.com](https://clawvr.com)**
 
@@ -199,6 +199,6 @@ The CLAWVR product (the customized + filled-in + industry-tuned version) is a pa
 
 <div align="center">
 
-**[Get CLAWVR — $297 one-time](https://clawvr.com)** · **[Affiliate program](https://clawvr.com/partners)** · **[Writing](https://clawvr.substack.com)** · **[Contact](mailto:hello@getclawvr.com)**
+**[Get CLAWVR — $49 one-time](https://clawvr.com)** · **[Affiliate program](https://clawvr.com/partners)** · **[Writing](https://clawvr.substack.com)** · **[Contact](mailto:hello@getclawvr.com)**
 
 </div>
